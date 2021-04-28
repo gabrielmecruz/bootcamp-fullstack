@@ -22,8 +22,8 @@ react-juro-composto | Challenge | [Read Me]() | [Repo](https://github.com/gabrie
 ### Unit IV - Data persistence, code version control and deployment
 Activity Name | Activity Type | Read Me Link | Repo Link
 ------------- | ------------- | ------------ | ---------
-react-salario | Hands On | [Read Me]() | [Repo](https://github.com/gabrielmecruz/bootcamp-fullstack-igti/tree/main/modulo04/trabalho-pratico/my-bank-api)
-react-juro-composto | Challenge | [Read Me]() | [Repo](https://github.com/gabrielmecruz/bootcamp-fullstack-igti/tree/main/modulo04/desafio)
+my-bank-api | Hands On | [Read Me]() | [Repo](https://github.com/gabrielmecruz/bootcamp-fullstack-igti/tree/main/modulo04/trabalho-pratico/my-bank-api)
+grades-api-app | Challenge | [Read Me]() | [Repo](https://github.com/gabrielmecruz/bootcamp-fullstack-igti/tree/main/modulo04/desafio)
 
 ### Final challenge
 Activity Name |  Read Me Link | Repo Link
