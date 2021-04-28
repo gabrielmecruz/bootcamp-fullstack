@@ -1,6 +1,5 @@
 storage.bson
 WiredTiger
-/diagnostic.data
 package-lock.json
 docker/data/db/
 docker/data/db/*
